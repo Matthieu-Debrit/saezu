@@ -1,0 +1,7 @@
+{
+  "secretJwt": "YourJwtSecretHere",
+  "databaseUrl": "postgres://postgres:yourpasswordhere@localhost:5432/saezu",
+  "databaseUrlTest": "postgres://postgres:yourpasswordhere@localhost:5432/saezutest",
+  "audience": "YOU",
+  "issuer": "http://localhost:3000/"
+}
